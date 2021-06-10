@@ -26,6 +26,7 @@ import Output.TextOutput;
 
 public class Booking {	
 	
+	//hello
 	List<WebElement> hotelNames; //creating list to store the hotels.
 	List<Double> ratings = new ArrayList<Double>(); //creating list to store the ratings of the hotels
 	WebDriver driver;
